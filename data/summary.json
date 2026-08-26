@@ -1,0 +1,131 @@
+{
+  "checked_at": "2026-08-26T07:12:36Z",
+  "source_count": 13,
+  "source_successes": 13,
+  "candidate_count": 1324,
+  "alive_count": 268,
+  "transmission_count": 267,
+  "webtorrent_count": 1,
+  "special_network_count": 14,
+  "unreachable_count": 1042,
+  "balanced_tiers": 12,
+  "balanced_endpoints": 36,
+  "protocol_candidates": {
+    "http": 705,
+    "https": 192,
+    "udp": 419,
+    "wss": 8
+  },
+  "protocol_alive": {
+    "http": 126,
+    "https": 24,
+    "udp": 117,
+    "wss": 1
+  },
+  "sources": [
+    {
+      "name": "newTrackon all",
+      "url": "https://newtrackon.com/api/all",
+      "network": "public",
+      "licence": "Service directory",
+      "count": 261,
+      "error": null
+    },
+    {
+      "name": "newTrackon stable",
+      "url": "https://newtrackon.com/api/stable",
+      "network": "public",
+      "licence": "Service directory",
+      "count": 54,
+      "error": null
+    },
+    {
+      "name": "ngosang all",
+      "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt",
+      "network": "public",
+      "licence": "GPL-2.0",
+      "count": 85,
+      "error": null
+    },
+    {
+      "name": "ngosang IP literals",
+      "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt",
+      "network": "public",
+      "licence": "GPL-2.0",
+      "count": 56,
+      "error": null
+    },
+    {
+      "name": "ngosang WebTorrent",
+      "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt",
+      "network": "webtorrent",
+      "licence": "GPL-2.0",
+      "count": 3,
+      "error": null
+    },
+    {
+      "name": "ngosang I2P",
+      "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_i2p.txt",
+      "network": "i2p",
+      "licence": "GPL-2.0",
+      "count": 13,
+      "error": null
+    },
+    {
+      "name": "ngosang Yggdrasil",
+      "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_yggdrasil.txt",
+      "network": "yggdrasil",
+      "licence": "GPL-2.0",
+      "count": 1,
+      "error": null
+    },
+    {
+      "name": "XIU2 TrackersListCollection",
+      "url": "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt",
+      "network": "public",
+      "licence": "GPL-3.0",
+      "count": 136,
+      "error": null
+    },
+    {
+      "name": "TrackersList.com",
+      "url": "https://trackerslist.com/all.txt",
+      "network": "public",
+      "licence": "Source terms apply",
+      "count": 136,
+      "error": null
+    },
+    {
+      "name": "Tunglies TrackersList",
+      "url": "https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt",
+      "network": "public",
+      "licence": "GPL-3.0",
+      "count": 1297,
+      "error": null
+    },
+    {
+      "name": "Salamander Trackers",
+      "url": "https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/main/combined.txt",
+      "network": "public",
+      "licence": "GPL-2.0",
+      "count": 137,
+      "error": null
+    },
+    {
+      "name": "00xc0d3 BitTorrent Tracker List",
+      "url": "https://raw.githubusercontent.com/00xc0d3/BitTorrent-Tracker-List/main/trackers_all.txt",
+      "network": "public",
+      "licence": "WTFPL",
+      "count": 110,
+      "error": null
+    },
+    {
+      "name": "animeTrackerList",
+      "url": "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt",
+      "network": "public",
+      "licence": "GPL-3.0",
+      "count": 888,
+      "error": null
+    }
+  ]
+}

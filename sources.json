@@ -1,0 +1,81 @@
+[
+  {
+    "name": "newTrackon all",
+    "url": "https://newtrackon.com/api/all",
+    "network": "public",
+    "licence": "Service directory"
+  },
+  {
+    "name": "newTrackon stable",
+    "url": "https://newtrackon.com/api/stable",
+    "network": "public",
+    "licence": "Service directory"
+  },
+  {
+    "name": "ngosang all",
+    "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt",
+    "network": "public",
+    "licence": "GPL-2.0"
+  },
+  {
+    "name": "ngosang IP literals",
+    "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt",
+    "network": "public",
+    "licence": "GPL-2.0"
+  },
+  {
+    "name": "ngosang WebTorrent",
+    "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt",
+    "network": "webtorrent",
+    "licence": "GPL-2.0"
+  },
+  {
+    "name": "ngosang I2P",
+    "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_i2p.txt",
+    "network": "i2p",
+    "licence": "GPL-2.0"
+  },
+  {
+    "name": "ngosang Yggdrasil",
+    "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_yggdrasil.txt",
+    "network": "yggdrasil",
+    "licence": "GPL-2.0"
+  },
+  {
+    "name": "XIU2 TrackersListCollection",
+    "url": "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt",
+    "network": "public",
+    "licence": "GPL-3.0"
+  },
+  {
+    "name": "TrackersList.com",
+    "url": "https://trackerslist.com/all.txt",
+    "network": "public",
+    "licence": "Source terms apply"
+  },
+  {
+    "name": "Tunglies TrackersList",
+    "url": "https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt",
+    "network": "public",
+    "licence": "GPL-3.0"
+  },
+  {
+    "name": "Salamander Trackers",
+    "url": "https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/main/combined.txt",
+    "network": "public",
+    "licence": "GPL-2.0"
+  },
+  {
+    "name": "00xc0d3 BitTorrent Tracker List",
+    "url": "https://raw.githubusercontent.com/00xc0d3/BitTorrent-Tracker-List/main/trackers_all.txt",
+    "network": "public",
+    "licence": "WTFPL"
+  },
+  {
+    "name": "animeTrackerList",
+    "url": "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt",
+    "network": "public",
+    "licence": "GPL-3.0",
+    "tags": ["anime"]
+  }
+]

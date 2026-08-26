@@ -1,0 +1,3 @@
+wss://open.ftorrent.com/announce
+wss://tracker.openwebtorrent.com/announce
+wss://tracker.webtorrent.dev/announce
