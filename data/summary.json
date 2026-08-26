@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-08-26T07:12:36Z",
+  "checked_at": "2026-08-26T07:15:29Z",
   "source_count": 13,
   "source_successes": 13,
   "candidate_count": 1324,
-  "alive_count": 268,
-  "transmission_count": 267,
-  "webtorrent_count": 1,
+  "alive_count": 263,
+  "transmission_count": 261,
+  "webtorrent_count": 2,
   "special_network_count": 14,
-  "unreachable_count": 1042,
+  "unreachable_count": 1047,
   "balanced_tiers": 12,
   "balanced_endpoints": 36,
   "protocol_candidates": {
@@ -17,10 +17,10 @@
     "wss": 8
   },
   "protocol_alive": {
-    "http": 126,
+    "http": 123,
     "https": 24,
-    "udp": 117,
-    "wss": 1
+    "udp": 114,
+    "wss": 2
   },
   "sources": [
     {
