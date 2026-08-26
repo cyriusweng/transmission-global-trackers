@@ -470,8 +470,11 @@ def main() -> int:
     distinct = distinct_hosts(transmission)
     best = distinct[:50]
     balanced_tiers = make_balanced_tiers(distinct, tier_count=12, backups=2)
+    balanced_primaries = [tier[0] for tier in balanced_tiers]
     aggressive = distinct[: args.aggressive_count]
     atomic_write(LIST_DIR / "transmission" / "balanced.txt", tier_text(balanced_tiers))
+    write_lines(LIST_DIR / "transmission" / "macos.txt", balanced_primaries)
+    write_lines(LIST_DIR / "transmission" / "magnet.txt", balanced_primaries)
     write_lines(LIST_DIR / "transmission" / "best.txt", [item["url"] for item in best])
     write_lines(LIST_DIR / "transmission" / "aggressive.txt", [item["url"] for item in aggressive], blank_between=True)
     write_lines(LIST_DIR / "transmission" / "all-tiered.txt", [item["url"] for item in distinct], blank_between=True)
