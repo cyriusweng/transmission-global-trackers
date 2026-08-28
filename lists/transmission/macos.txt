@@ -5,8 +5,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
 udp://tracker.farted.net:6969/announce
 https://t.213891.xyz/announce
-https://tracker.7471.top/announce
 https://004430.xyz/announce
-https://tracker.zhuqiy.com/announce
+https://tracker.7471.top/announce
+https://tracker.leechshield.link/announce
 http://tracker.renfei.net:8080/announce
 http://ipv4announce.sktorrent.eu:6969/announce
