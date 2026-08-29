@@ -1,25 +1,25 @@
 {
-  "checked_at": "2026-08-28T15:25:06Z",
+  "checked_at": "2026-08-29T10:07:45Z",
   "source_count": 13,
   "source_successes": 13,
-  "candidate_count": 1317,
-  "alive_count": 244,
-  "transmission_count": 242,
+  "candidate_count": 1318,
+  "alive_count": 269,
+  "transmission_count": 267,
   "webtorrent_count": 2,
   "special_network_count": 14,
-  "unreachable_count": 1059,
+  "unreachable_count": 1035,
   "balanced_tiers": 12,
   "balanced_endpoints": 36,
   "protocol_candidates": {
-    "http": 701,
+    "http": 700,
     "https": 193,
-    "udp": 415,
+    "udp": 417,
     "wss": 8
   },
   "protocol_alive": {
-    "http": 110,
-    "https": 20,
-    "udp": 112,
+    "http": 130,
+    "https": 21,
+    "udp": 116,
     "wss": 2
   },
   "sources": [
@@ -28,7 +28,7 @@
       "url": "https://newtrackon.com/api/all",
       "network": "public",
       "licence": "Service directory",
-      "count": 262,
+      "count": 261,
       "error": null
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt",
       "network": "public",
       "licence": "GPL-2.0",
-      "count": 88,
+      "count": 99,
       "error": null
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt",
       "network": "public",
       "licence": "GPL-2.0",
-      "count": 54,
+      "count": 57,
       "error": null
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt",
       "network": "public",
       "licence": "GPL-3.0",
-      "count": 140,
+      "count": 150,
       "error": null
     },
     {
@@ -92,7 +92,7 @@
       "url": "https://trackerslist.com/all.txt",
       "network": "public",
       "licence": "Source terms apply",
-      "count": 140,
+      "count": 150,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "url": "https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt",
       "network": "public",
       "licence": "GPL-3.0",
-      "count": 1287,
+      "count": 1288,
       "error": null
     },
     {
@@ -108,7 +108,7 @@
       "url": "https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/main/combined.txt",
       "network": "public",
       "licence": "GPL-2.0",
-      "count": 144,
+      "count": 156,
       "error": null
     },
     {
