@@ -104,7 +104,6 @@ https://tracker.iochimari.moe/announce
 https://tracker.jdx3.org/announce
 https://tracker.leechshield.link/announce
 https://tracker.lenition.de/announce
-https://tracker.linvk.com/announce
 https://tracker.manager.itislove.cz/announce
 https://tracker.manager.v6.navy/announce
 https://tracker.maya.no.eu.org/announce
