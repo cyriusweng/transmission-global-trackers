@@ -109,7 +109,6 @@ https://tracker.manager.v6.navy/announce
 https://tracker.maya.no.eu.org/announce
 https://tracker.moeblog.cn/announce
 https://tracker.moeking.me/announce
-https://tracker.nanoha.org/announce
 https://tracker.nekomi.cn/announce
 https://tracker.novy.vip/announce
 https://tracker.onetracker.net/announce
@@ -196,6 +195,7 @@ udp://tracker.darkness.services:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dorcus.digital:1337/announce
+udp://tracker.ducks.party:1984/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
@@ -244,6 +244,7 @@ udp://tracker1.myporn.club:9337/announce
 udp://trackthis.cyber.pz.it:1337/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://uabits.today:6990/announce
+udp://udp-tracker.adgk.net:6969/announce
 udp://udp.tracker.linvk.com:6969/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://v6.vito-tracker.space:6969/announce
