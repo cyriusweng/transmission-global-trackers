@@ -7,6 +7,6 @@ udp://open.stealth.si:80/announce
 https://t.213891.xyz/announce
 https://tracker.leechshield.link/announce
 https://004430.xyz/announce
-https://tracker.7471.top/announce
+https://tracker.foreverpirates.co/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker.renfei.net:8080/announce
