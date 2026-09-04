@@ -23,7 +23,6 @@ http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
 http://1337.abcvg.info/announce
 http://1337.abcvg.info/announce+108
-http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
 http://140.235.237.23:6969/announce
 http://140.82.21.192:8080/announce
@@ -92,6 +91,7 @@ http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187/announce
 http://211.75.205.187:6969/announce
+http://211.75.205.188/announce
 http://211.75.205.188:6969/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
@@ -100,7 +100,9 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
+http://34.66.57.33/announce
 http://34.66.57.33:1337/announce
+http://34.66.57.33:2710/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -198,7 +200,6 @@ http://[200:1e2f:e608:eb3a:2bf:1e62:87ba:e2f7]/announce
 http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969/announce
 http://[21e:6565:9c87:a49d:dafa:92c1:b33f:f21]:1337/announce
 http://aaa.army:8866/announce
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://all4nothin.net/announce
 http://all4nothin.net/announce.php
 http://alltorrents.net/bt/announce.php
@@ -937,8 +938,8 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
-udp://211.75.205.187:80/announce
-udp://211.75.205.188:6969/announce
+udp://211.75.205.187:6969/announce
+udp://211.75.205.188:80/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
@@ -948,6 +949,7 @@ udp://23.157.120.14:6969/announce
 udp://31.56.179.159:6969/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
+udp://37.120.182.83:15480/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.59.48.81:6969/announce
@@ -980,6 +982,7 @@ udp://88.99.2.212:6969/announce
 udp://89.36.216.8:6969/announce
 udp://91.177.126.188:6969/announce
 udp://91.211.5.21:6969/announce
+udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337/announce
 udp://93.158.213.92:6969/announce
@@ -1114,6 +1117,7 @@ udp://public-tracker.cf:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://qtstm32fan.ru:6969/announce
+udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
