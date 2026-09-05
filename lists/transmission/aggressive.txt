@@ -4,19 +4,19 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://mail.segso.net:6969/announce
-
 udp://tracker.farted.net:6969/announce
 
-udp://open.demonii.com:1337/announce
+udp://mail.segso.net:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -38,39 +38,41 @@ udp://tracker.opentrackr.com:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://tracker.dler.org:6969/announce
+https://t.213891.xyz/announce
 
 udp://tracker2.dler.org:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-https://t.213891.xyz/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.aruku.ovh:8081/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
+https://004430.xyz/announce
 
 https://tracker.leechshield.link/announce
 
-https://004430.xyz/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-https://tracker.foreverpirates.co/announce
-
 https://tracker.7471.top/announce
+
+https://tracker.foreverpirates.co/announce
 
 https://1337.abcvg.info/announce
 
-http://tracker.waaa.moe:6969/announce
-
 udp://tracker.bittor.pw:1337/announce
+
+http://tracker.waaa.moe:6969/announce
 
 udp://seedpeer.net:6969/announce
 
 http://bt1.archive.org:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
+
+https://tracker.nekomi.cn/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -84,11 +86,9 @@ udp://tracker.playground.ru:6969/announce
 
 udp://tracker.govt.hu:6969/announce
 
-udp://tracker.cn.nyaa.net:6969/announce
-
 http://bt2.archive.org:6969/announce
 
-https://tracker.nekomi.cn/announce
+udp://tracker.cn.nyaa.net:6969/announce
 
 https://tr.nyacat.pw/announce
 
@@ -98,7 +98,11 @@ udp://torrentclub.online:1984/announce
 
 udp://tracker.nexusstream.eu:6969/announce
 
+https://tracker.zhuqiy.com/announce
+
 udp://leet-tracker.moe:1337/announce
+
+udp://rekcart.duckdns.org:15480/announce
 
 udp://tracker.therarbg.to:1337/announce
 
@@ -108,12 +112,8 @@ udp://zer0day.ch:1337/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-http://tracker.dhitechnical.com:6969/announce
-
 udp://udp-tracker.adgk.net:6969/announce
 
 udp://open.demonoid.ch:6969/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-https://tracker.onetracker.net/announce
+https://tracker.pmman.tech/announce
