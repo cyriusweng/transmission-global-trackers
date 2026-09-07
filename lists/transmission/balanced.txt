@@ -1,10 +1,10 @@
-udp://evan.im:6969/announce
+udp://tracker.0x7c0.com:6969/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 
-udp://tracker.0x7c0.com:6969/announce
+udp://evan.im:6969/announce
 udp://mail.segso.net:6969/announce
-udp://tracker.ilibr.org:6969/announce
+udp://tracker.peerfect.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -26,22 +26,22 @@ https://t.213891.xyz/announce
 udp://explodie.org:6969/announce
 https://1337.abcvg.info/announce
 
-https://004430.xyz/announce
-udp://tracker.publictracker.xyz:6969/announce
-udp://tracker.bittor.pw:1337/announce
-
 https://tracker.foreverpirates.co/announce
 udp://tracker.teambelgium.net:6969/announce
+udp://tracker.bittor.pw:1337/announce
+
+https://004430.xyz/announce
+udp://tracker.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 
 https://tracker.7471.top/announce
 udp://martin-gebhardt.eu:25/announce
 http://bt1.archive.org:6969/announce
 
-http://tracker.renfei.net:8080/announce
-udp://t.overflow.biz:6969/announce
-udp://torrent.tracker.durukanbal.com:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
-udp://tracker.peerfect.org:6969/announce
-udp://tracker.breizh.pm:6969/announce
+udp://t.overflow.biz:6969/announce
+http://bt2.archive.org:6969/announce
+
+http://tracker.renfei.net:8080/announce
+udp://tracker.ilibr.org:6969/announce
+udp://torrent.tracker.durukanbal.com:6969/announce

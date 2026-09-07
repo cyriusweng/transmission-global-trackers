@@ -323,6 +323,7 @@ http://irrenhaus.dyndns.dk/announce.php
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://jsb.by00/announce
+http://jvavav.com/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com/announce
 http://kinorun.com/announce.php
@@ -444,6 +445,7 @@ http://torrent-tracker.ru/announce
 http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
+http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.nwps.ws/announce
@@ -697,8 +699,13 @@ https://00.xxtor.com/announce
 https://004430.xyz/announce
 https://021912.xyz/announce
 https://0d.kebhana.mx/announce
+https://1.tracker.eu.org/announce
 https://1337.abcvg.info/announce
+https://2.tracker.eu.org/announce
+https://3.tracker.eu.org/announce
 https://337hhh.xyz/announce
+https://4.tracker.eu.org/announce
+https://5.tracker.eu.org/announce
 https://aaa.army:8866/announce
 https://abir0dev.github.io/announce
 https://alpha.torrenttracker.nl/announce
@@ -935,6 +942,7 @@ udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
+udp://211.75.205.187:6969/announce
 udp://211.75.205.188:6969/announce
 udp://211.75.205.188:80/announce
 udp://211.75.29.254:6969/announce
