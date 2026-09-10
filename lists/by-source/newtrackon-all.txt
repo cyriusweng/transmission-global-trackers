@@ -41,6 +41,7 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.cbase.cc:6969/announce
 http://tracker.chaoz.li:2710/announce
 http://tracker.dhitechnical.com:6969/announce
+http://tracker.digital-alpha-world.de:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.file09.com/announce
 http://tracker.gbitt.info/announce

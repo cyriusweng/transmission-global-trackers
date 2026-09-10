@@ -6,7 +6,7 @@ udp://tracker.qu.ax:6969/announce
 udp://open.stealth.si:80/announce
 https://t.213891.xyz/announce
 https://tracker.foreverpirates.co/announce
-https://tracker.7471.top/announce
 https://1337.abcvg.info/announce
+https://tracker.7471.top/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker.renfei.net:8080/announce
