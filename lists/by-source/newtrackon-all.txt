@@ -119,7 +119,6 @@ https://tracker.tamersunion.org/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.yggleak.top/announce
 https://tracker.zhuqiy.com/announce
-https://tracker1.520.jp/announce
 https://ttracker.just-h.party/announce
 https://wsad.run.place/announce
 udp://1c.premierzal.ru:6969/announce
