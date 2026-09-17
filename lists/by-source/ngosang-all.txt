@@ -3,6 +3,7 @@ http://1337.abcvg.info/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://t.overflow.biz:6969/announce
+http://tr.nyacat.pw/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
@@ -12,13 +13,16 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.nexusstream.eu:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
+http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker2.dler.org/announce
 https://004430.xyz/announce
+https://ht.therarbg.to/announce
 https://open.ftorrent.com/announce
 https://pybittrack.retiolus.net/announce
 https://t.213891.xyz/announce
+https://tr.nyacat.pw/announce
 https://tracker.7471.top/announce
 https://tracker.bt4g.com/announce
 https://tracker.foreverpirates.co/announce
@@ -28,7 +32,6 @@ https://tracker.pmman.tech/announce
 https://tracker.zhuqiy.com/announce
 udp://admin.52ywp.com:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
@@ -63,7 +66,7 @@ udp://tracker.ilibr.org:6969/announce
 udp://tracker.k.vu:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.nyaa.net:6969/announce
-udp://tracker.opentorrent.top:6969/announce
+udp://tracker.nyaa.vc:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
@@ -72,6 +75,7 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrents.observer:80/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker2.dler.org:80/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce

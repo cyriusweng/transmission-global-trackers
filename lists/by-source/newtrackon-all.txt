@@ -140,7 +140,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
-udp://files.project-cataclysm.ru:6969/announce
 udp://ibksturm.synology.me:6969/announce
 udp://ipv6.govt.hu:6969/announce
 udp://laestrygonian.ooguy.com:9001/announce
@@ -158,6 +157,7 @@ udp://open.demonii.com:1337/announce
 udp://open.ftorrent.com:443/announce
 udp://open.stealth.si:80/announce
 udp://opentracker.io:6969/announce
+udp://opentracker.lain.moscow:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
