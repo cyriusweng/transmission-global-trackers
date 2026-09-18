@@ -9,8 +9,8 @@ https://1.tracker.eu.org/announce
 https://004430.xyz/announce
 https://open.ftorrent.com/announce
 https://tracker.qingwapt.org/announce
-https://tracker.nekomi.cn/announce
 https://tracker.pmman.tech/announce
+https://tracker.nekomi.cn/announce
 https://tracker.monikadesign.uk/announce/63ea34cb9815cd28d63fc75b2f2c5a56
 https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 https://bt.beatrice-raws.org/announce
@@ -18,6 +18,6 @@ https://tracker.lenition.de/announce
 https://torrent.ubuntu.com/announce
 https://tracker.bt4g.com/announce
 https://tracker.adgk.net/announce
-https://t.btcland.xyz/announce
 https://337hhh.xyz/announce
+https://t.btcland.xyz/announce
 https://tr.torland.ga/announce

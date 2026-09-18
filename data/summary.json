@@ -1,25 +1,25 @@
 {
-  "checked_at": "2026-09-17T08:41:37Z",
+  "checked_at": "2026-09-18T08:17:20Z",
   "source_count": 13,
   "source_successes": 13,
-  "candidate_count": 1315,
-  "alive_count": 253,
-  "transmission_count": 251,
+  "candidate_count": 1314,
+  "alive_count": 249,
+  "transmission_count": 247,
   "webtorrent_count": 2,
   "special_network_count": 18,
-  "unreachable_count": 1044,
+  "unreachable_count": 1047,
   "balanced_tiers": 12,
   "balanced_endpoints": 36,
   "protocol_candidates": {
     "http": 697,
     "https": 191,
-    "udp": 419,
+    "udp": 418,
     "wss": 8
   },
   "protocol_alive": {
-    "http": 113,
+    "http": 110,
     "https": 23,
-    "udp": 115,
+    "udp": 114,
     "wss": 2
   },
   "sources": [
@@ -28,7 +28,7 @@
       "url": "https://newtrackon.com/api/all",
       "network": "public",
       "licence": "Service directory",
-      "count": 257,
+      "count": 258,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
       "url": "https://newtrackon.com/api/stable",
       "network": "public",
       "licence": "Service directory",
-      "count": 55,
+      "count": 54,
       "error": null
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt",
       "network": "public",
       "licence": "GPL-2.0",
-      "count": 81,
+      "count": 79,
       "error": null
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt",
       "network": "public",
       "licence": "GPL-3.0",
-      "count": 128,
+      "count": 125,
       "error": null
     },
     {
@@ -92,7 +92,7 @@
       "url": "https://trackerslist.com/all.txt",
       "network": "public",
       "licence": "Source terms apply",
-      "count": 128,
+      "count": 125,
       "error": null
     },
     {
@@ -108,7 +108,7 @@
       "url": "https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/main/combined.txt",
       "network": "public",
       "licence": "GPL-2.0",
-      "count": 129,
+      "count": 125,
       "error": null
     },
     {
