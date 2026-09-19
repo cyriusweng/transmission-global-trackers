@@ -20,6 +20,7 @@ http://ipv4.rer.lol:2710/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://joczo.duckdns.org:6969/announce
+http://kolanopentracker.airdns.org:3392/announce
 http://lucke.fenesisu.moe:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 http://open.acgtracker.com:1096/announce

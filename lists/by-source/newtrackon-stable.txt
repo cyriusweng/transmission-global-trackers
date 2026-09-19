@@ -7,7 +7,6 @@ http://tracker.ipv6tracker.ru/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://wegkxfcivgx.ydns.eu/announce
 https://004430.xyz/announce
@@ -17,6 +16,7 @@ https://tracker.7471.top/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.nekomi.cn/announce
 https://tracker.onetracker.net/announce
+https://tracker.qingwapt.org/announce
 https://tracker.zhuqiy.com/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -45,7 +45,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.govt.hu:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.k.vu:6969/announce
-udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
