@@ -1,25 +1,25 @@
 {
-  "checked_at": "2026-09-20T08:37:49Z",
+  "checked_at": "2026-09-21T08:59:38Z",
   "source_count": 13,
   "source_successes": 13,
-  "candidate_count": 1318,
-  "alive_count": 252,
-  "transmission_count": 250,
+  "candidate_count": 1316,
+  "alive_count": 248,
+  "transmission_count": 246,
   "webtorrent_count": 2,
   "special_network_count": 18,
-  "unreachable_count": 1048,
+  "unreachable_count": 1050,
   "balanced_tiers": 12,
   "balanced_endpoints": 36,
   "protocol_candidates": {
-    "http": 696,
+    "http": 695,
     "https": 191,
-    "udp": 423,
+    "udp": 422,
     "wss": 8
   },
   "protocol_alive": {
     "http": 110,
     "https": 23,
-    "udp": 117,
+    "udp": 113,
     "wss": 2
   },
   "sources": [
@@ -44,7 +44,7 @@
       "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt",
       "network": "public",
       "licence": "GPL-2.0",
-      "count": 80,
+      "count": 83,
       "error": null
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt",
       "network": "public",
       "licence": "GPL-2.0",
-      "count": 56,
+      "count": 59,
       "error": null
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt",
       "network": "public",
       "licence": "GPL-3.0",
-      "count": 126,
+      "count": 123,
       "error": null
     },
     {
@@ -92,7 +92,7 @@
       "url": "https://trackerslist.com/all.txt",
       "network": "public",
       "licence": "Source terms apply",
-      "count": 126,
+      "count": 123,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "url": "https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt",
       "network": "public",
       "licence": "GPL-3.0",
-      "count": 1290,
+      "count": 1288,
       "error": null
     },
     {
@@ -108,7 +108,7 @@
       "url": "https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/main/combined.txt",
       "network": "public",
       "licence": "GPL-2.0",
-      "count": 127,
+      "count": 123,
       "error": null
     },
     {
