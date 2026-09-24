@@ -74,7 +74,6 @@ https://cny.fan/announce
 https://edgev.duckdns.org/announce
 https://ht.therarbg.to/announce
 https://http1.torrust-tracker-demo.com/announce
-https://opentracker.8880085.xyz/announce
 https://orgtgju.org/announce
 https://pybittrack.retiolus.net/announce
 https://staticfile-bobcat.wasmer.app/announce
