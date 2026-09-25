@@ -13,7 +13,6 @@ http://chihaya.de/announce
 http://cn.pcfreetime.com:6969/announce
 http://de7c0e7a567e.sn.mynetname.net:59002/announce
 http://echostar.ddnsfree.com:8080/announce
-http://fleira.no:6969/announce
 http://fosstorrents.com:6969/announce
 http://ftp.pet:2710/announce
 http://ipv4.rer.lol:2710/announce
@@ -140,6 +139,7 @@ udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://ibksturm.synology.me:6969/announce
 udp://ipv6.govt.hu:6969/announce
+udp://kolankoalastree.newtrackon.co.nz:1337/announce
 udp://kolanopentracker.airdns.org:3392/announce
 udp://laestrygonian.ooguy.com:9001/announce
 udp://lotus-eater.mywire.org:9001/announce
@@ -242,6 +242,7 @@ udp://uabits.today:6990/announce
 udp://udp-tracker.adgk.net:6969/announce
 udp://udp.tracker.linvk.com:6969/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
+udp://v2.iperson.xyz:6969/announce
 udp://v6.vito-tracker.space:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vito-tracker.duckdns.org:6969/announce

@@ -6,7 +6,7 @@ udp://mail.segso.net:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker.foreverpirates.co/announce
 https://t.213891.xyz/announce
-https://tracker.onetracker.net/announce
 https://1337.abcvg.info/announce
+https://tracker.7471.top/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker.renfei.net:8080/announce
