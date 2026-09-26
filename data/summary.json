@@ -1,25 +1,25 @@
 {
-  "checked_at": "2026-09-25T08:51:50Z",
+  "checked_at": "2026-09-26T08:38:13Z",
   "source_count": 13,
   "source_successes": 13,
-  "candidate_count": 1311,
-  "alive_count": 240,
-  "transmission_count": 238,
+  "candidate_count": 1310,
+  "alive_count": 241,
+  "transmission_count": 239,
   "webtorrent_count": 2,
   "special_network_count": 18,
-  "unreachable_count": 1053,
+  "unreachable_count": 1051,
   "balanced_tiers": 12,
   "balanced_endpoints": 36,
   "protocol_candidates": {
-    "http": 694,
+    "http": 692,
     "https": 190,
-    "udp": 419,
+    "udp": 420,
     "wss": 8
   },
   "protocol_alive": {
-    "http": 108,
-    "https": 21,
-    "udp": 109,
+    "http": 109,
+    "https": 20,
+    "udp": 110,
     "wss": 2
   },
   "sources": [
@@ -28,7 +28,7 @@
       "url": "https://newtrackon.com/api/all",
       "network": "public",
       "licence": "Service directory",
-      "count": 257,
+      "count": 260,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
       "url": "https://newtrackon.com/api/stable",
       "network": "public",
       "licence": "Service directory",
-      "count": 52,
+      "count": 51,
       "error": null
     },
     {
@@ -84,7 +84,7 @@
       "url": "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt",
       "network": "public",
       "licence": "GPL-3.0",
-      "count": 119,
+      "count": 118,
       "error": null
     },
     {
@@ -92,7 +92,7 @@
       "url": "https://trackerslist.com/all.txt",
       "network": "public",
       "licence": "Source terms apply",
-      "count": 119,
+      "count": 118,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "url": "https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt",
       "network": "public",
       "licence": "GPL-3.0",
-      "count": 1282,
+      "count": 1283,
       "error": null
     },
     {

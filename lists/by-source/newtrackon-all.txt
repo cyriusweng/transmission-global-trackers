@@ -58,6 +58,9 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker1.itzmx.com:8080/announce
+http://tracker2.itzmx.com:6961/announce
+http://tracker3.itzmx.com:6961/announce
+http://tracker4.itzmx.com:2710/announce
 http://trackr.appolon.dev:6969/announce
 http://vps-c1adea63.vps.ovh.net:6969/announce
 http://wegkxfcivgx.ydns.eu/announce
