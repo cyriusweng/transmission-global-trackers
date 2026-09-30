@@ -45,6 +45,7 @@ http://tracker.file09.com/announce
 http://tracker.gbitt.info/announce
 http://tracker.guguan.000.pe/announce
 http://tracker.imgdump.lol:6969/announce
+http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.ru/announce
 http://tracker.lyretain.site:2710/announce
 http://tracker.mywaifu.best:6969/announce
