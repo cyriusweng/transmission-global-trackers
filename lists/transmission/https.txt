@@ -15,7 +15,6 @@ https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 https://tracker.monikadesign.uk/announce/63ea34cb9815cd28d63fc75b2f2c5a56
 https://bt.beatrice-raws.org/announce
 https://torrent.ubuntu.com/announce
-https://tracker.adgk.net/announce
 https://337hhh.xyz/announce
 https://t.btcland.xyz/announce
 https://tr.torland.ga/announce
