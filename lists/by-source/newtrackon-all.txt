@@ -104,7 +104,6 @@ https://tracker.guguan.us.kg/announce
 https://tracker.iochimari.moe/announce
 https://tracker.jdx3.org/announce
 https://tracker.leechshield.link/announce
-https://tracker.lenition.de/announce
 https://tracker.manager.itislove.cz/announce
 https://tracker.manager.v6.navy/announce
 https://tracker.maya.no.eu.org/announce
@@ -223,7 +222,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.sharebro.in:6969/announce
 udp://tracker.srv00.com:6969/announce
-udp://tracker.teambelgium.net:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.tnl.one:8000/announce
 udp://tracker.torrent.eu.org:451/announce
@@ -250,7 +248,6 @@ udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://v6.vito-tracker.space:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
-udp://vito-tracker.duckdns.org:6969/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wepzone.net:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
