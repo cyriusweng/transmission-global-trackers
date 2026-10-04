@@ -8,5 +8,5 @@ https://tracker.foreverpirates.co/announce
 https://t.213891.xyz/announce
 https://tracker.7471.top/announce
 https://1337.abcvg.info/announce
-http://tracker.renfei.net:8080/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+http://tracker.renfei.net:8080/announce
