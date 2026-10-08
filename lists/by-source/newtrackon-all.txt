@@ -120,6 +120,7 @@ https://tracker.samcze.pl/announce
 https://tracker.tamersunion.org/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.yggleak.top/announce
+https://tracker.zhuqiy.com/announce
 https://ttracker.just-h.party/announce
 https://wsad.run.place/announce
 udp://1c.premierzal.ru:6969/announce
@@ -194,7 +195,6 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dorcus.digital:1337/announce
 udp://tracker.ducks.party:1984/announce
-udp://tracker.edkj.club:6969/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
