@@ -3,7 +3,6 @@ http://asiatorrent.ddns.net:51413/announce
 http://asiatorrent.giize.com:51413/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.publicvm.com:8080/announce
-http://bt.xcty.eu.org:2095/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://bughome.de:2832/announce
@@ -42,7 +41,6 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.digital-alpha-world.de:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.file09.com/announce
-http://tracker.gbitt.info/announce
 http://tracker.guguan.000.pe/announce
 http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce

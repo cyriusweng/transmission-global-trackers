@@ -8,7 +8,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://wegkxfcivgx.ydns.eu/announce
-https://004430.xyz/announce
 https://1.tracker.eu.org/announce
 https://t.213891.xyz/announce
 https://tracker.7471.top/announce
