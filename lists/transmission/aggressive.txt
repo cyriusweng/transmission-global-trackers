@@ -46,11 +46,11 @@ http://tracker.renfei.net:8080/announce
 
 udp://tracker.ducks.party:1984/announce
 
-https://tracker.7471.top/announce
-
 udp://t.overflow.biz:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
+
+https://tracker.7471.top/announce
 
 udp://tracker.aruku.ovh:8081/announce
 
@@ -58,13 +58,11 @@ https://1337.abcvg.info/announce
 
 udp://tracker.wildkat.net:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.corpscorp.online:80/announce
 
-udp://ns575949.ip-51-222-82.net:6969/announce
+udp://tracker.bittor.pw:1337/announce
 
-http://bt1.archive.org:6969/announce
+udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
@@ -74,29 +72,29 @@ udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
-https://tr.nyacat.pw/announce
-
 udp://tracker.willy.pro:6969/announce
 
 udp://explodie.org:6969/announce
+
+https://tr.nyacat.pw/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
 udp://tracker.farted.net:6969/announce
 
+http://tracker.waaa.moe:6969/announce
+
 udp://open.ftorrent.com:443/announce
 
 https://004430.xyz/announce
 
-udp://tracker.004430.xyz:1337/announce
-
 https://tracker.pmman.tech/announce
 
-http://tracker.waaa.moe:6969/announce
-
-https://1.tracker.eu.org/announce
+udp://tracker.004430.xyz:1337/announce
 
 udp://bt-tracker.de:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -106,14 +104,16 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
-https://tracker.zhuqiy.com/announce
-
 http://207.241.231.226:6969/announce
 
-https://tracker.qingwapt.org/announce
-
-http://bt2.archive.org:6969/announce
+udp://tracker.torrents.observer:80/announce
 
 udp://93.158.213.92:6969/announce
 
-udp://tracker.torrents.observer:80/announce
+udp://tracker.okade.pro:1337/announce
+
+http://94.23.207.177:6969/announce
+
+http://207.241.226.111:6969/announce
+
+http://107.189.2.131:1337/announce

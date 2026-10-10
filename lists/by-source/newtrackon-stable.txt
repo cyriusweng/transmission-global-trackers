@@ -3,6 +3,7 @@ http://bt2.archive.org:6969/announce
 http://echostar.ddnsfree.com:8080/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker.dhitechnical.com:6969/announce
+http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.ru/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
