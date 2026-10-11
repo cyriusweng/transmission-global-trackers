@@ -12,9 +12,9 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-https://tracker.foreverpirates.co/announce
-
 udp://open.demonii.com:1337/announce
+
+https://tracker.foreverpirates.co/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -24,13 +24,13 @@ udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.peerfect.org:6969/announce
 
-udp://tracker.nyaa.net:6969/announce
-
 udp://tracker.dler.org:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.cn.nyaa.net:6969/announce
 
@@ -38,11 +38,9 @@ udp://kolankoalastree.newtrackon.co.nz:1337/announce
 
 https://t.213891.xyz/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://v2.iperson.xyz:6969/announce
 
-http://tracker.renfei.net:8080/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
@@ -53,6 +51,8 @@ udp://tracker.opentrackr.com:6969/announce
 https://tracker.7471.top/announce
 
 udp://tracker.aruku.ovh:8081/announce
+
+http://tracker.renfei.net:8080/announce
 
 https://1337.abcvg.info/announce
 
@@ -72,9 +72,9 @@ udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
-udp://tracker.willy.pro:6969/announce
-
 udp://explodie.org:6969/announce
+
+udp://tracker.willy.pro:6969/announce
 
 https://tr.nyacat.pw/announce
 
@@ -84,9 +84,11 @@ udp://tracker.farted.net:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
+https://004430.xyz/announce
+
 udp://open.ftorrent.com:443/announce
 
-https://004430.xyz/announce
+http://tracker.dhitechnical.com:6969/announce
 
 https://tracker.pmman.tech/announce
 
@@ -94,13 +96,11 @@ udp://tracker.004430.xyz:1337/announce
 
 udp://bt-tracker.de:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
-http://tracker.dhitechnical.com:6969/announce
-
-https://tracker.nekomi.cn/announce
+udp://tracker.okade.pro:1337/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+https://tracker.nekomi.cn/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
@@ -108,9 +108,9 @@ http://207.241.231.226:6969/announce
 
 udp://tracker.torrents.observer:80/announce
 
-udp://93.158.213.92:6969/announce
+http://bt1.archive.org:6969/announce
 
-udp://tracker.okade.pro:1337/announce
+udp://93.158.213.92:6969/announce
 
 http://94.23.207.177:6969/announce
 

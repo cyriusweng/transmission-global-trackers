@@ -32,7 +32,6 @@ http://144.202.33.210:6961/announce
 http://144.76.118.107:6969/announce
 http://147job.com:6969/announce
 http://151.115.49.115:1337/announce
-http://152.249.214.196:6969/announce
 http://155.248.200.105/announce
 http://156.234.201.18/announce
 http://157.90.169.123/announce
@@ -100,6 +99,7 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
+http://34.66.57.33:1337/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -553,13 +553,11 @@ http://tracker.nyacat.pw:7000/announce
 http://tracker.nyacat.pw:7000/announce.php
 http://tracker.openbittorrent.com/announce
 http://tracker.openbittorrrent.com/announce
-http://tracker.opentorrent.top:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
 http://tracker.pcfreetime.com:6969/announce
 http://tracker.peckservers.com:9000/announce
 http://tracker.pimp4003.net/announce
-http://tracker.plx.im:6969/announce
 http://tracker.pomf.se/announce
 http://tracker.pow7.com/announce
 http://tracker.publictorrent.net/announce
@@ -584,7 +582,6 @@ http://tracker.tambovnet.org/announce
 http://tracker.tambovnet.org/announce.php
 http://tracker.tfile.co/announce
 http://tracker.tfile.me/announce
-http://tracker.therarbg.to:6969/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.torrentbytes.net/announce
 http://tracker.torrentbytes.net/announce.php
@@ -897,7 +894,6 @@ udp://148.251.53.72:6969/announce
 udp://149.106.106.25:443/announce
 udp://15.235.207.99:8081/announce
 udp://151.242.104.187:80/announce
-udp://152.249.214.196:6969/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
 udp://159.146.99.45:6969/announce
@@ -932,7 +928,6 @@ udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
 udp://211.75.205.188:6969/announce
-udp://211.75.210.221:6969/announce
 udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
@@ -957,7 +952,6 @@ udp://47.76.201.250:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
-udp://5.255.124.190:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
 udp://51.158.144.42:6969/announce
@@ -980,7 +974,6 @@ udp://88.99.2.212:6969/announce
 udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337/announce
 udp://93.158.213.92:6969/announce
