@@ -1,14 +1,14 @@
 udp://evan.im:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.ducks.party:1984/announce
+
+udp://tracker.opentrackr.org:1337/announce
+udp://open.demonii.com:1337/announce
 udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
-udp://open.demonii.com:1337/announce
-udp://tracker.nyaa.net:6969/announce
-
-udp://tracker.opentrackr.org:1337/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-udp://tracker.aruku.ovh:8081/announce
+udp://tracker.nyaa.net:6969/announce
 
 udp://open.stealth.si:80/announce
 udp://v2.iperson.xyz:6969/announce
@@ -27,21 +27,21 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.bittor.pw:1337/announce
 
 https://t.213891.xyz/announce
-udp://tracker.peerfect.org:6969/announce
+udp://tracker.ilibr.org:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 https://tracker.7471.top/announce
-udp://tracker.ilibr.org:6969/announce
-http://tracker.waaa.moe:6969/announce
+udp://tracker.peerfect.org:6969/announce
+http://bt2.archive.org:6969/announce
 
 https://004430.xyz/announce
 udp://tracker.cn.nyaa.net:6969/announce
-http://bt2.archive.org:6969/announce
+http://tracker.waaa.moe:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
-udp://torrent.tracker.durukanbal.com:6969/announce
+http://tracker.renfei.net:8080/announce
 
 http://bt1.archive.org:6969/announce
-udp://tracker.ducks.party:1984/announce
-udp://bt-tracker.de:6969/announce
+udp://martin-gebhardt.eu:25/announce
+udp://torrent.tracker.durukanbal.com:6969/announce
