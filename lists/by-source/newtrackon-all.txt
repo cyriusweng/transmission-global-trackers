@@ -7,7 +7,6 @@ http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://bughome.de:2832/announce
 http://bvarf.tracker.sh:2086/announce
-http://ch3oh.ru:6969/announce
 http://chihaya.de/announce
 http://cn.pcfreetime.com:6969/announce
 http://de7c0e7a567e.sn.mynetname.net:59002/announce
