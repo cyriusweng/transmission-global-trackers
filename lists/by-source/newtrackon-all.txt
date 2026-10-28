@@ -137,7 +137,6 @@ udp://cerf.cs.umd.edu:8000/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://ds32244.seedhost.eu:6969/announce
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
@@ -160,6 +159,7 @@ udp://open.ftorrent.com:443/announce
 udp://open.stealth.si:80/announce
 udp://opentracker.io:6969/announce
 udp://opentracker.lain.moscow:6969/announce
+udp://opentracker2.lain.moscow:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
