@@ -72,6 +72,7 @@ https://banananetwork.qzz.io/announce
 https://bittracker.nekosunevr.co.uk/announce
 https://cny.fan/announce
 https://edgev.duckdns.org/announce
+https://gargoyleperch.de/announce
 https://ht.therarbg.to/announce
 https://http1.torrust-tracker-demo.com/announce
 https://orgtgju.org/announce
@@ -117,6 +118,7 @@ https://tracker.samcze.pl/announce
 https://tracker.tamersunion.org/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.yggleak.top/announce
+https://tracker.yume-hatsuyuki.moe/announce
 https://tracker.zhuqiy.com/announce
 https://ttracker.just-h.party/announce
 https://wsad.run.place/announce
@@ -236,7 +238,6 @@ udp://tracker.wepzone.net:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.willy.pro:6969/announce
 udp://tracker.x6c.co:6969/announce
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.myporn.club:9337/announce
 udp://trackthis.cyber.pz.it:1337/announce

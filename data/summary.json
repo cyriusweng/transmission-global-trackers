@@ -1,25 +1,25 @@
 {
-  "checked_at": "2026-10-28T09:42:47Z",
+  "checked_at": "2026-10-29T10:01:05Z",
   "source_count": 13,
   "source_successes": 13,
-  "candidate_count": 1317,
-  "alive_count": 284,
-  "transmission_count": 281,
+  "candidate_count": 1314,
+  "alive_count": 256,
+  "transmission_count": 253,
   "webtorrent_count": 3,
   "special_network_count": 17,
-  "unreachable_count": 1016,
+  "unreachable_count": 1041,
   "balanced_tiers": 12,
   "balanced_endpoints": 36,
   "protocol_candidates": {
-    "http": 691,
-    "https": 190,
-    "udp": 428,
+    "http": 690,
+    "https": 192,
+    "udp": 424,
     "wss": 8
   },
   "protocol_alive": {
-    "http": 129,
-    "https": 22,
-    "udp": 130,
+    "http": 103,
+    "https": 24,
+    "udp": 126,
     "wss": 3
   },
   "sources": [
@@ -28,7 +28,7 @@
       "url": "https://newtrackon.com/api/all",
       "network": "public",
       "licence": "Service directory",
-      "count": 259,
+      "count": 260,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
       "url": "https://newtrackon.com/api/stable",
       "network": "public",
       "licence": "Service directory",
-      "count": 52,
+      "count": 53,
       "error": null
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt",
       "network": "public",
       "licence": "GPL-2.0",
-      "count": 55,
+      "count": 50,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "url": "https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt",
       "network": "public",
       "licence": "GPL-3.0",
-      "count": 1289,
+      "count": 1284,
       "error": null
     },
     {
@@ -108,7 +108,7 @@
       "url": "https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/main/combined.txt",
       "network": "public",
       "licence": "GPL-2.0",
-      "count": 131,
+      "count": 130,
       "error": null
     },
     {

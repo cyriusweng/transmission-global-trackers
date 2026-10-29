@@ -38,13 +38,13 @@ udp://tracker.cn.nyaa.net:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 
+http://tracker.renfei.net:8080/announce
+
 udp://tracker.ducks.party:1984/announce
 
 udp://martin-gebhardt.eu:25/announce
 
 https://tracker.7471.top/announce
-
-http://tracker.renfei.net:8080/announce
 
 udp://tracker.nyaa.net:6969/announce
 
@@ -54,23 +54,25 @@ udp://tracker.wildkat.net:6969/announce
 
 https://1337.abcvg.info/announce
 
-udp://torrent.tracker.durukanbal.com:6969/announce
-
-udp://tracker.aruku.ovh:8081/announce
-
-udp://bt-tracker.de:6969/announce
-
-udp://tracker.ddunlimited.net:6969/announce
-
-http://tracker.waaa.moe:6969/announce
+udp://tracker.bittor.pw:1337/announce
 
 http://bt2.archive.org:6969/announce
 
-udp://tracker.playground.ru:6969/announce
+http://tracker.waaa.moe:6969/announce
+
+udp://tracker.aruku.ovh:8081/announce
+
+http://bt1.archive.org:6969/announce
+
+udp://bt-tracker.de:6969/announce
+
+udp://torrent.tracker.durukanbal.com:6969/announce
+
+udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.torrents.observer:80/announce
 
-http://bt1.archive.org:6969/announce
+udp://tracker.playground.ru:6969/announce
 
 udp://open.ftorrent.com:443/announce
 
@@ -88,23 +90,25 @@ udp://explodie.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://tracker.004430.xyz:1337/announce
-
 https://1.tracker.eu.org/announce
 
-udp://tracker.sela.st:6969/announce
-
-udp://tracker.evergarden.uk:1914/announce
-
-udp://ipv4announce.sktorrent.eu:6969/announce
+udp://tracker.004430.xyz:1337/announce
 
 https://tracker.nekomi.cn/announce
 
-https://tracker.qingwapt.org/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://tracker.sela.st:6969/announce
 
 https://tracker.pmman.tech/announce
+
+https://tracker.qingwapt.org/announce
+
+udp://ipv4announce.sktorrent.eu:6969/announce
+
+udp://tracker.evergarden.uk:1914/announce
+
+udp://opentracker2.lain.moscow:6969/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tracker.okade.pro:1337/announce
 
@@ -113,7 +117,3 @@ http://tracker.zhuqiy.dgj055.icu/announce
 http://207.241.231.226:6969/announce
 
 udp://tracker.willy.pro:6969/announce
-
-udp://93.158.213.92:6969/announce
-
-udp://opentracker2.lain.moscow:6969/announce
