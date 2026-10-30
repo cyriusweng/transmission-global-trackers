@@ -9,4 +9,4 @@ https://t.213891.xyz/announce
 https://tracker.7471.top/announce
 https://1337.abcvg.info/announce
 http://tracker.renfei.net:8080/announce
-http://bt2.archive.org:6969/announce
+http://tracker.waaa.moe:6969/announce
