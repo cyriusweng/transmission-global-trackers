@@ -26,13 +26,13 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
-udp://tracker2.dler.org:80/announce
-
 udp://tracker.dler.org:6969/announce
 
-https://t.213891.xyz/announce
+udp://tracker2.dler.org:80/announce
 
 udp://tracker.dler.com:6969/announce
+
+https://t.213891.xyz/announce
 
 udp://tracker.cn.nyaa.net:6969/announce
 
@@ -44,21 +44,23 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://tracker.ducks.party:1984/announce
 
-https://tracker.7471.top/announce
-
 udp://tracker.opentrackr.com:6969/announce
+
+https://tracker.7471.top/announce
 
 udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
+udp://tracker.corpscorp.online:80/announce
+
 https://1337.abcvg.info/announce
 
 http://tracker.waaa.moe:6969/announce
 
-http://bt2.archive.org:6969/announce
-
 udp://tracker.aruku.ovh:8081/announce
+
+http://bt2.archive.org:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
@@ -78,42 +80,40 @@ udp://yuptracker-eu.gaijinent.com:27022/announce
 
 https://tr.nyacat.pw/announce
 
-udp://tracker.corpscorp.online:80/announce
-
 udp://tracker.farted.net:6969/announce
 
 udp://opentracker.lain.moscow:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 https://tracker.pmman.tech/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://tracker.004430.xyz:1337/announce
 
 https://1.tracker.eu.org/announce
 
-udp://tracker.sela.st:6969/announce
+https://004430.xyz/announce
 
-https://tracker.nekomi.cn/announce
+udp://tracker.sela.st:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
-udp://tracker.evergarden.uk:1914/announce
+https://tracker.nekomi.cn/announce
 
-https://tracker.qingwapt.org/announce
+udp://tracker.evergarden.uk:1914/announce
 
 udp://opentracker2.lain.moscow:6969/announce
 
 udp://tracker.okade.pro:1337/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-https://004430.xyz/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
-https://tracker.yume-hatsuyuki.moe/announce
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+https://tracker.qingwapt.org/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
+
+http://207.241.231.226:6969/announce
