@@ -18,7 +18,6 @@ https://tracker.foreverpirates.co/announce
 https://tracker.nekomi.cn/announce
 https://tracker.pmman.tech/announce
 https://tracker.qingwapt.org/announce
-udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://bt-tracker.de:6969/announce
 udp://evan.im:6969/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
