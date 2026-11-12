@@ -27,6 +27,7 @@ https://tracker.nekomi.cn/announce
 https://tracker.pmman.tech/announce
 https://tracker.zhuqiy.com/announce
 udp://admin.52ywp.com:6969/announce
+udp://archive.torrentonline.cc:42069/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
@@ -43,6 +44,7 @@ udp://open.tracker.cl:1337/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
+udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.004430.xyz:1337/announce
@@ -55,7 +57,6 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.evergarden.uk:1914/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.k.vu:6969/announce
