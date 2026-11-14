@@ -11,7 +11,6 @@ http://chihaya.de/announce
 http://cn.pcfreetime.com:6969/announce
 http://de7c0e7a567e.sn.mynetname.net:59002/announce
 http://echostar.ddnsfree.com:8080/announce
-http://fosstorrents.com:6969/announce
 http://ftp.pet:2710/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -134,7 +133,6 @@ udp://archive.torrentonline.cc:42069/announce
 udp://bandito.byterunner.io:6969/announce
 udp://banzaitracker.com:2710/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-udp://bt-tracker.de:6969/announce
 udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.rer.lol:6969/announce
@@ -173,6 +171,7 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://run.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 udp://shahidrazi.online:1984/announce
+udp://stairs.lat:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://torrent.bowed.net:8081/announce
