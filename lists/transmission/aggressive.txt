@@ -16,9 +16,9 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
-https://tracker.foreverpirates.co/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
+
+https://tracker.foreverpirates.co/announce
 
 udp://v2.iperson.xyz:6969/announce
 
@@ -44,13 +44,13 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.nyaa.net:6969/announce
 
-https://tracker.7471.top/announce
-
 https://t.213891.xyz/announce
 
-https://1337.abcvg.info/announce
+https://tracker.7471.top/announce
 
 https://004430.xyz/announce
+
+https://1337.abcvg.info/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -60,17 +60,17 @@ udp://tracker.aruku.ovh:8081/announce
 
 udp://open.ftorrent.com:443/announce
 
-udp://torrent.tracker.durukanbal.com:6969/announce
+http://tracker.waaa.moe:6969/announce
+
+http://bt2.archive.org:6969/announce
 
 udp://tracker.evergarden.uk:1914/announce
+
+udp://torrent.tracker.durukanbal.com:6969/announce
 
 http://bt1.archive.org:6969/announce
 
 udp://tracker.sela.st:6969/announce
-
-http://bt2.archive.org:6969/announce
-
-http://tracker.waaa.moe:6969/announce
 
 udp://tracker.transfur.org:6969/announce
 
@@ -82,17 +82,13 @@ http://tracker.dhitechnical.com:6969/announce
 
 https://tr.nyacat.pw/announce
 
-udp://tracker.peerfect.org:6969/announce
-
 udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
-udp://explodie.org:6969/announce
+udp://tracker.peerfect.org:6969/announce
 
 https://tracker.pmman.tech/announce
-
-https://1.tracker.eu.org/announce
 
 udp://tracker.willy.pro:6969/announce
 
@@ -107,6 +103,10 @@ udp://tracker.004430.xyz:1337/announce
 https://tracker.qingwapt.org/announce
 
 udp://t.overflow.biz:6969/announce
+
+https://1.tracker.eu.org/announce
+
+udp://stairs.lat:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
