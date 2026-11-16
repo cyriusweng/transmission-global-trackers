@@ -1,7 +1,7 @@
 https://tracker.foreverpirates.co/announce
 https://t.213891.xyz/announce
-https://tracker.7471.top/announce
 https://004430.xyz/announce
+https://tracker.7471.top/announce
 https://1337.abcvg.info/announce
 https://tr.nyacat.pw/announce
 https://tracker.pmman.tech/announce
@@ -21,3 +21,4 @@ https://337hhh.xyz/announce
 https://tr.torland.ga/announce
 https://ht.therarbg.to/announce
 https://tracker.anibt.net/announce
+https://tracker.vectahosting.eu/announce
