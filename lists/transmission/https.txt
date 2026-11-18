@@ -5,8 +5,8 @@ https://tracker.7471.top/announce
 https://1337.abcvg.info/announce
 https://tracker.pmman.tech/announce
 https://tr.nyacat.pw/announce
-https://tracker.qingwapt.org/announce
 https://1.tracker.eu.org/announce
+https://tracker.qingwapt.org/announce
 https://tracker.nekomi.cn/announce
 https://open.ftorrent.com/announce
 https://tracker.zhuqiy.com/announce
