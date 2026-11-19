@@ -1,1 +1,3 @@
+http://tracker.ygg.okade.pro:1337/announce
 http://yggtracker.i2p.rocks/announce
+udp://tracker.ygg.okade.pro:1337/announce
