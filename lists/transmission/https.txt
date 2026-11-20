@@ -5,11 +5,11 @@ https://tracker.7471.top/announce
 https://1337.abcvg.info/announce
 https://tracker.pmman.tech/announce
 https://tr.nyacat.pw/announce
-https://1.tracker.eu.org/announce
 https://tracker.nekomi.cn/announce
+https://1.tracker.eu.org/announce
 https://tracker.qingwapt.org/announce
-https://tracker.zhuqiy.com/announce
 https://open.ftorrent.com/announce
+https://tracker.zhuqiy.com/announce
 https://tracker.yume-hatsuyuki.moe/announce
 https://tracker.augrains.com/announce
 https://tracker.monikadesign.uk/announce/63ea34cb9815cd28d63fc75b2f2c5a56
@@ -20,4 +20,6 @@ https://t.btcland.xyz/announce
 https://337hhh.xyz/announce
 https://ht.therarbg.to/announce
 https://tr.torland.ga/announce
+https://tracker.adgk.net/announce
 https://tracker.anibt.net/announce
+https://tracker.vectahosting.eu/announce
