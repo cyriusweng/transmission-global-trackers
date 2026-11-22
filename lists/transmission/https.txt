@@ -1,6 +1,6 @@
 https://tracker.foreverpirates.co/announce
-https://t.213891.xyz/announce
 https://004430.xyz/announce
+https://t.213891.xyz/announce
 https://tracker.7471.top/announce
 https://1337.abcvg.info/announce
 https://tr.nyacat.pw/announce
@@ -8,8 +8,8 @@ https://tracker.nekomi.cn/announce
 https://1.tracker.eu.org/announce
 https://tracker.qingwapt.org/announce
 https://tracker.yume-hatsuyuki.moe/announce
-https://open.ftorrent.com/announce
 https://tracker.zhuqiy.com/announce
+https://open.ftorrent.com/announce
 https://tracker.augrains.com/announce
 https://tracker.monikadesign.uk/announce/63ea34cb9815cd28d63fc75b2f2c5a56
 https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
@@ -19,4 +19,11 @@ https://t.btcland.xyz/announce
 https://337hhh.xyz/announce
 https://tr.torland.ga/announce
 https://tracker.anibt.net/announce
+https://t1.hloli.org/announce
+https://tracker.aburaya.live/announce
+https://track3r.site/announce
 https://tracker.vectahosting.eu/announce
+https://tracker.kitaujisub.site/announce.php?authkey=213|10003|j46n2q
+https://tracker.kitaujisub.site/announce.php?authkey=215|10003|j46n2q
+https://tracker.shittyurl.org/announce
+https://w.wwwww.wtf/announce
