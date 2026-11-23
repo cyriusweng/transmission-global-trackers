@@ -16,6 +16,7 @@ http://116.9.207.164:6969/announce
 http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
 http://119.28.71.45:8080/announce
+http://123.245.62.58:6969/announce
 http://123.245.62.62:6969/announce
 http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
@@ -75,6 +76,7 @@ http://190.22.49.98:1337/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
 http://193.37.214.12:6969/announce
+http://194.247.183.66:6969/announce
 http://198.251.84.144/announce
 http://200.232.254.1:6969/announce
 http://201.42.214.55:6969/announce
@@ -92,6 +94,7 @@ http://211.75.205.187/announce
 http://211.75.205.187:6969/announce
 http://211.75.205.188/announce
 http://211.75.205.188:6969/announce
+http://211.75.210.221:6969/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://216.144.239.90:6969/announce
@@ -819,7 +822,6 @@ udp://119.28.71.45:8080/announce
 udp://123.245.62.62:6969/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.198.235:1984/announce
-udp://138.186.10.167:1337/announce
 udp://143.20.154.228:42069/announce
 udp://143.20.154.229:42069/announce
 udp://144.91.88.22:6969/announce
@@ -853,6 +855,7 @@ udp://192.95.46.115:6969/announce
 udp://192.99.100.68:6969/announce
 udp://193.37.214.12:6969/announce
 udp://194.169.160.46:1212/announce
+udp://194.247.183.66:6969/announce
 udp://194.38.21.77:6969/announce
 udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
@@ -860,10 +863,10 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
-udp://211.75.205.187:6969/announce
 udp://211.75.205.187:80/announce
 udp://211.75.205.188:6969/announce
 udp://211.75.205.188:80/announce
+udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
