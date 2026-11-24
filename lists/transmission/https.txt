@@ -1,3 +1,4 @@
+https://tracker.foreverpirates.co/announce
 https://004430.xyz/announce
 https://t.213891.xyz/announce
 https://tracker.7471.top/announce
@@ -18,14 +19,13 @@ https://torrent.ubuntu.com/announce
 https://t.btcland.xyz/announce
 https://337hhh.xyz/announce
 https://tr.torland.ga/announce
-https://tracker.adgk.net/announce
 https://ht.therarbg.to/announce
+https://tracker.adgk.net/announce
 https://tracker.anibt.net/announce
 https://t1.hloli.org/announce
-https://track3r.site/announce
 https://tracker.vectahosting.eu/announce
+https://track3r.site/announce
 https://tracker.aburaya.live/announce
-https://tracker.shittyurl.org/announce
-https://tracker.kitaujisub.site/announce.php?authkey=215|10003|j46n2q
-https://tracker.kitaujisub.site/announce.php?authkey=213|10003|j46n2q
 https://w.wwwww.wtf/announce
+https://tracker.shittyurl.org/announce
+https://tracker.kitaujisub.site/announce.php?authkey=213|10003|j46n2q
