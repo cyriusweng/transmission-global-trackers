@@ -73,6 +73,7 @@ https://edgev.duckdns.org/announce
 https://gargoyleperch.de/announce
 https://ht.therarbg.to/announce
 https://http1.torrust-tracker-demo.com/announce
+https://lattice.peerrelay.workers.dev/announce
 https://orgtgju.org/announce
 https://pybittrack.retiolus.net/announce
 https://staticfile-bobcat.wasmer.app/announce
@@ -143,6 +144,7 @@ udp://ds32244.seedhost.eu:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
+udp://hidden.torrentonline.cc:42069/announce
 udp://ibksturm.synology.me:6969/announce
 udp://ipv6.govt.hu:6969/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
@@ -171,6 +173,7 @@ udp://run.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 udp://shahidrazi.online:1984/announce
 udp://stairs.lat:6969/announce
+udp://su-data.com:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://t1.itrus.su:1212/announce
 udp://t2.itrus.su:1212/announce
