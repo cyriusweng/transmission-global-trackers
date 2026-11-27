@@ -52,12 +52,10 @@ udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://t1.itrus.su:1212/announce
 udp://t2.itrus.su:1212/announce
-udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.004430.xyz:1337/announce
 udp://tracker.bittor.pw:1337/announce
-udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.org:6969/announce
@@ -79,7 +77,6 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.t-rb.org:6969/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrents.observer:80/announce
 udp://tracker.tryhackx.org:6969/announce
